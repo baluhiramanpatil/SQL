@@ -1,2 +1,2 @@
 # SQL
-### This repository contains all my project works.
+## This repository contains all my SQL PROJECTS.
